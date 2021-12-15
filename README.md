@@ -19,19 +19,20 @@ Para esta práctica hemos usados usado Tableau public para la visualización, es
 [Visualización](https://public.tableau.com/app/profile/maite6542/viz/Storytelling_16395883753870/Sheet1#1)
 
 Para el tratamiento de los datos, una vez seleccionado el dataset con el que ibamos a trabajar, hemos usado Jupiter notebook con python y librerías como
-Pandas para la limpieza y tratamiento de los datos finalmente hemos exportado el documento en [PDF] (https://github.com/mpiedray/PEC3/blob/main/Creaci%C3%B3n%20de%20una%20visualizaci%C3%B3n%20data%20Storytelling%20(PEC3).pdf)
+Pandas para la limpieza y tratamiento de los datos finalmente hemos exportado el documento en 
+[PDF](https://github.com/mpiedray/PEC3/blob/main/Creaci%C3%B3n%20de%20una%20visualizaci%C3%B3n%20data%20Storytelling%20(PEC3).pdf)
 
 Por último hemos exportado los datos a EXCEL y a CSV.
 
-También hemos subido los datos a [github Gist] (https://gist.github.com/mpiedray/c207a811e9bbfe40924a8c0983840097), hemos descubierto 
-[vizhub] (https://vizhub.com/), la cual es una plataforma para trabajar con la libreria D3.js y librerías en Javascript en general para
-crear visualización, la forma de importar los datos a esta plataforma es a través de Gist.
+También hemos subido los datos a [github Gist](https://gist.github.com/mpiedray/c207a811e9bbfe40924a8c0983840097), hemos descubierto 
+[vizhub](https://vizhub.com/), la cual es una plataforma para trabajar con la libreria D3.js y librerías en Javascript en general para
+crear visualizaciones, la forma de importar los datos a esta plataforma es a través de Gist.
 
 Por falta de tiempo mo la hemos usado, pero la dejamos pendiente para futuros proyectos.
 
 ### Presentación de la navegación / animación de la visualización creada.
 Un nuestro caso hemos hecho nuestra visualizacion usando Tableau, hemos usados filtros para poder animar la visualización, de madera que los datos serán dinámicos 
-cuando los usemos.[Visualizacion] (https://public.tableau.com/app/profile/maite6542/viz/Storytelling_16395883753870/Sheet1#1)
+cuando los usemos.[Visualizacion](https://public.tableau.com/app/profile/maite6542/viz/Storytelling_16395883753870/Sheet1#1)
 
 ### Análisis de los elementos visuales usados: tipo de gráficos, interacción, colores, textos.
 
